@@ -1,0 +1,172 @@
+Uri: https://www.solpups.com/
+File Name: C:\Downloaded Web Sites\www.solpups.com\index.htm
+Content Type: text/html
+
+Uri: https://www.solpups.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.solpups.com/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\www.solpups.com\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://www.solpups.com/css/owl.carousel.css
+File Name: C:\Downloaded Web Sites\www.solpups.com\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.solpups.com/css/owl.theme.default.css
+File Name: C:\Downloaded Web Sites\www.solpups.com\css\owl.theme.default.css
+Content Type: text/css
+
+Uri: https://www.solpups.com/css/style.css
+File Name: C:\Downloaded Web Sites\www.solpups.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.solpups.com/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.solpups.com\css\responsive.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.solpups.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\www.solpups.com\css2.css
+Content Type: text/css
+
+Uri: https://www.solpups.com/index.html
+File Name: C:\Downloaded Web Sites\www.solpups.com\index.html
+Content Type: text/html
+
+Uri: https://twitter.com/SolPups
+File Name: C:\Downloaded Web Sites\www.solpups.com\SolPups.html
+Content Type: text/html
+
+Uri: https://www.solpups.com/images/logo.svg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solpups.com/images/twitter.svg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solpups.com/images/discord.svg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\discord.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solpups.com/images/solpups-banner.gif
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\solpups-banner.gif
+Content Type: image/gif
+
+Uri: https://www.solpups.com/images/collection-img-1.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\collection-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/collection-img-4.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\collection-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/collection-img-2.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\collection-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/collection-img-3.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\collection-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/team-img-1.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\team-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/team-img-2.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\team-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/team-img-3.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\team-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/team-img-4.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\team-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/team-img-5.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\team-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/team-img-6.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\team-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/team-img-7.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\team-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/team-img-8.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\team-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/images/traits-img.jpg
+File Name: C:\Downloaded Web Sites\www.solpups.com\images\traits-img.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solpups.com/js/jquery.js
+File Name: C:\Downloaded Web Sites\www.solpups.com\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.solpups.com/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\www.solpups.com\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://www.solpups.com/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\www.solpups.com\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://www.solpups.com/js/custom.js
+File Name: C:\Downloaded Web Sites\www.solpups.com\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.solpups.com/fonts/CircularStdBook.eot
+File Name: C:\Downloaded Web Sites\www.solpups.com\fonts\CircularStdBook.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.solpups.com/fonts/CircularStdBook.woff2
+File Name: C:\Downloaded Web Sites\www.solpups.com\fonts\CircularStdBook.woff2
+Content Type: font/woff2
+
+Uri: https://www.solpups.com/fonts/CircularStdBook.woff
+File Name: C:\Downloaded Web Sites\www.solpups.com\fonts\CircularStdBook.woff
+Content Type: font/woff
+
+Uri: https://www.solpups.com/fonts/CircularStdBook.ttf
+File Name: C:\Downloaded Web Sites\www.solpups.com\fonts\CircularStdBook.ttf
+Content Type: font/ttf
+
+Uri: https://www.solpups.com/fonts/CircularStdBook.svg
+File Name: C:\Downloaded Web Sites\www.solpups.com\fonts\CircularStdBook.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solpups.com/fonts/CircularStdBold.eot
+File Name: C:\Downloaded Web Sites\www.solpups.com\fonts\CircularStdBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.solpups.com/fonts/CircularStdBold.woff2
+File Name: C:\Downloaded Web Sites\www.solpups.com\fonts\CircularStdBold.woff2
+Content Type: font/woff2
+
+Uri: https://www.solpups.com/fonts/CircularStdBold.woff
+File Name: C:\Downloaded Web Sites\www.solpups.com\fonts\CircularStdBold.woff
+Content Type: font/woff
+
+Uri: https://www.solpups.com/fonts/CircularStdBold.ttf
+File Name: C:\Downloaded Web Sites\www.solpups.com\fonts\CircularStdBold.ttf
+Content Type: font/ttf
+
+Uri: https://www.solpups.com/fonts/CircularStdBold.svg
+File Name: C:\Downloaded Web Sites\www.solpups.com\fonts\CircularStdBold.svg
+Content Type: image/svg+xml
+
+Uri: https://discord.com/invite/G39ha3V9Xf
+File Name: C:\Downloaded Web Sites\www.solpups.com\invite\G39ha3V9Xf.html
+Content Type: text/html
+
